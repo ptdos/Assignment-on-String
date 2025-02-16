@@ -32,9 +32,9 @@ def is_k_ostad(str1, str2, k):
 str1 = "anagram"
 str2 = "grammar"
 k = 3
-print(is_k_ostad(str1, str2, k))  # Output: Yes
+print(is_k_ostad(str1, str2, k))  
 
 str1 = "ostad"
 str2 = "boss"
 k = 1
-print(is_k_ostad(str1, str2, k))  # Output: No
+print(is_k_ostad(str1, str2, k))  
